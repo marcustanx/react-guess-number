@@ -1,8 +1,6 @@
 html {
     height: 100%;
     margin: 8px;
-    font-size: larger;
-    letter-spacing: 0.1em;
 }
 
 .header {
@@ -13,7 +11,7 @@ html {
     margin: auto;
     align-items: center;
     text-align: center;
-    background-color: #a5d0e0;
+    background-color: #cccccc;
     font-family: Arial, sans-serif;
 }
 
